@@ -1,5 +1,5 @@
 # backup-sync-script
-Un **script** escrito en **Bash** en el que se crea un archivo *.tar** comprimido con **gzip** de los directorios elegidos para posteriormete guardarse en el equipo, subirse a otro externo y a la nube de **Dropbox**.
+Un **script** escrito en **Bash** en el que se crea un archivo **.tar** comprimido con **gzip** de los directorios elegidos para posteriormete guardarse en el equipo, subirse a otro externo y a la nube de **Dropbox**.
 Este script es útil para realizar **copias de seguridad en formato 3-2-1**
 
 ## REQUISITOS PREVIOS:
