@@ -5,7 +5,8 @@ Este script es útil para realizar **copias de seguridad en formato 3-2-1**
 ## REQUISITOS PREVIOS:
 - Tener como mínimo un equipo adicional.
 
-- Tener una aplicación en Dropbox Extraer el `APP_KEY` y `APP_SECRET` de nuestra aplicacion.  
+- Tener una aplicación en Dropbox
+- Extraer el `APP_KEY` y `APP_SECRET` de nuestra aplicacion.  
 Más información [aquí](https://www.dropbox.com/developers/documentation?_tk=pilot_lp&_ad=topbar1&_camp=docs)
 
 - Tener dropbox configurado con automatización de la generación de Token.  
